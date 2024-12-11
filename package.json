@@ -1,0 +1,15 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "Script with different code regex example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "javascript"
+  ],
+  "author": "Pablo Torres <torres.m.pablo@gmail.com>",
+  "license": "MIT"
+}
